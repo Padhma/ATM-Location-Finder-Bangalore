@@ -15,3 +15,14 @@ The data for this project has been obtained from various sources such as,
   * Data Visualization
   * Machine Learning - Unsupervised Learning Algorithm
     * K-means Clustering
+
+### Technologies utilized:
+  * Jupyter
+  * FourSquare
+  * BeautifulSoup, Requests
+  * Geopy
+  * Pandas
+  * Numpy
+  * Matplotlib
+  * Sklearn
+  * Folium
